@@ -1,0 +1,109 @@
+body {
+    background-image: url("Screenshot 2023-07-29 at 8.06.53 PM.png");
+   }
+.logo{
+    height: 50px;
+    width:  auto;
+    margin: 5px;
+}
+.card{
+    margin: 1px;
+    width:  240px;
+    height: 650px;
+}
+.card:hover{
+    box-shadow: 0 15px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+    /* transition-delay: 50ms; */
+}
+.Pizza{
+    margin: 50px;
+    text-align: center;
+}
+.pizza{
+    margin: 10px;
+    text-align: center;
+}
+.card-body{
+    margin: 1px;
+} 
+.cartclass{
+    position:fixed;
+    top: 0;
+    right: 0;
+    height: 1000px;
+    background-color:white;
+}
+.paymentlogo{
+    height: 500px;
+    width:  500px;
+    align-items: center;
+}
+.successbutton{
+    margin: 20px;
+}
+.logoback{
+    background-color: white;
+    
+}
+.navbar-brand{
+    color: black;
+    background-color: white;
+    padding: 10px 20px;
+    /* border-style: 50px solid */
+}
+.submit{
+    margin: 6px;
+}
+.submit a:hover {
+    background-image: url("Screenshot 2023-07-29 at 8.06.53 PM.png");
+    border-radius: 10px;
+}
+.crust{
+    font-size: medium;
+    font-style: italic;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.basket{
+    text-align: left;
+    font-size: small;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pizza span{
+    font-style: oblique;
+}
+.newly{
+    background-image: url("Screenshot 2023-07-29 at 8.06.53 PM.png")
+}
+.newlylogo{
+    height: 55px;
+    width:  1060px;
+    margin: 10px;   
+}
+.veg{
+    height: 40px;
+    width:  60px;
+    margin-left: 1px;
+}
+.siz{
+    height: 30px;
+    width:  29px;
+    margin-left: 1px;
+}
+.myBtn{
+    display:contents;
+}
+.myElement{
+    background-image: url("Screenshot 2023-07-29 at 8.06.53 PM.png");
+}
+.myCartPizza{
+    margin-top: 0px;
+    vertical-align: top;
+}
+.changeSpan{
+    text-align:start;
+    margin-top: 0%;
+}
+
+
+
